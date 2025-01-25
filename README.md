@@ -33,6 +33,7 @@ A completely different initiative is [erase](https://www2.gov.bc.ca/gov/content/
 - In exchange for donations and an audience, they exploit conspiracies for personal gain.
 - Real people get hurt - on both sides! People suffer serious consequences for buying into the BS, and innocent people are falsely targeted.
 - Manipulating people with exagerated wedge issues and lies is wrong.
+
 ---
 
 # SOGI at your school
