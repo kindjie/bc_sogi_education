@@ -1,5 +1,5 @@
 # SOGI in BC Schools
-For years I've seen the most outlandish conspiracies told about this innocuous initiative. I've gathered primary sources here to *hopefully* address the most common conspiracies and misinformation, without explicitly repeating them here.
+For years I've seen the most outlandish conspiracies told about this innocuous initiative. I've gathered primary sources here to *hopefully* address the most common conspiracies and misinformation, without explicitly repeating them.
 
 I urge anyone who finds a mistake in this post to comment with a correction.
 
@@ -21,7 +21,7 @@ I urge anyone who finds a mistake in this post to comment with a correction.
 1. BC passed Bill 27 amending the **Human Rights Code** to include "*gender identity or expression*".
 2. Parliament of Canada passed Bill C-16 to amend the **Canadian Human Rights Act** similarly.
 3. Human rights laws impact the Ministry of Education and Child Care’s [curriculum](https://curriculum.gov.bc.ca/).
-4. The ARC Foundation collaborated with the BC Ministry of Education, BC Teacher's Federation, and others to develop **SOGI 123** for schools as a resource for the above. Keep in mind, SOGI policies had *already been in schools for years* before this.
+4. The [ARC Foundation](https://www.arcfoundation.ca/) collaborated with the BC Ministry of Education, BC Teacher's Federation, and others to develop **SOGI 123** for schools as a resource for the above. Keep in mind, SOGI policies had *already been in schools for years* before this.
 5. It had the goal of "*...[helping] educators make schools safer and more inclusive for students of all sexual orientations and gender identities through policies and procedures, guidance on creating inclusive environments and teaching resources*" according to their [website](https://www.sogieducation.org).
 
 The BC government version of what I wrote above is [here](https://news.gov.bc.ca/factsheets/sexual-orientation-and-gender-identity-sogi-in-schools).
@@ -178,7 +178,31 @@ The [early guidance from \~2017](https://bccpac.bc.ca/upload/2017/11/moe-sogi-po
 > \* Saewyc E., Poon C., Kovaleva K., Tourand J., & Smith A. (2016). School-based interventions to reduce health disparities among LGBTQ youth: Considering the evidence.
 > † These best practices were co-developed by the Ministry of Education, ARC Foundation, Out in Schools, BCTF, University of British Columbia and K-12 educators
 
-You will find these practices or similar ones listed in almost all implementations by BC schools, and it's very similar to what you can find today on [the official website](https://www.sogieducation.org/resource/10-key-components-for-policies-and-procedures/).
+You will find these practices or similar ones listed in almost all implementations by BC schools, and it's very similar to what you can find today on [the official website](https://www.sogieducation.org/resource/10-key-components-for-policies-and-procedures/). The "Educator Training" and "curriculum" (as of January 2025) referring to small exercises and videos that teachers may choose to use as they see fit in *existing* courses.
+
+[Here](https://www.sogieducation.org/resource/10-11-12-science-life-sciences-biology-anatomy-and-physiology-intersex-biology/) are suggestions for Science and Biology. For example, when covering hormones at grade 12:
+> Hormones are responsible for the regulation of many body functions. Here we will take a closer look into how DNA, the blueprint for life, affects hormone production and, therefore, affects the expression and regulation of primary and secondary sexual characteristics in the human body.
+> 
+> Bio 12 / Anatomy and Physiology 12
+> 
+> Curriculum Entry Points:
+> 
+> Big Ideas:
+> 1. DNA and Cells All living things are made of cells, which contain DNA and cell structures that allow cells to survive and reproduce.
+> 2. Organization Organ systems have complex interrelationships to maintain homeostasis.
+>
+> Content:
+> 1. organs within each of the systems are interconnected to maintain homeostasis:
+>   - reproductive system
+> 2. functional interrelationships exist among body systems
+> 3. DNA carries the cell’s genetic information:
+>   - process of DNA replication
+>   - process of protein synthesis
+>   - genomics
+>
+> ...
+
+The full document is available [here](https://www.bctf.ca/classroom-resources/details/intersex-lesson). These are resources for established biology that has been taught for years.
 
 ---
 
