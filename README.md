@@ -66,7 +66,7 @@ Some more examples from [here](https://bccpac.bc.ca/upload/2017/11/moe-sogi-poli
 
 ---
 
-As mentioned, the bills amended the **Canadian Human Rights Act** and BC's **Human Rights Code Amendment Act**. It's probably easier to just reference them directly rather than going through the relevant bills. I'll go through the bills to give context to how **SOGI 123** came to be.
+As mentioned, the bills amended the [**Canadian Human Rights Act**](https://laws-lois.justice.gc.ca/eng/acts/h-6/) and BC's [**Human Rights Code**](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96210_01). It's probably easier to just reference them directly rather than going through the relevant bills. I'll go through the bills to give context to how **SOGI 123** came to be.
 
 It's important to keep in mind that Canada has had these laws for decades. These were just relatively small amendments that were turned into easy wedge issues.
 
