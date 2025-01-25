@@ -202,7 +202,7 @@ You will find these practices or similar ones listed in almost all implementatio
 >
 > ...
 
-The full document is available [here](https://www.bctf.ca/classroom-resources/details/intersex-lesson). These are resources for established biology that has been taught for years.
+The full document is available [here](https://www.bctf.ca/classroom-resources/details/intersex-lesson). These are resources for established biology that has been taught for years. The material helps teachers cover sensitive topics that touch students with empathy and care; to promote understanding.
 
 ---
 
