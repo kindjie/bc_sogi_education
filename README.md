@@ -15,7 +15,7 @@ I urge anyone who finds a mistake in this post to comment with a correction.
 - **SOGI 123** is help for schools and students to follow the **BC Human Rights Code** and the **Canadian Human Rights Act**.
 - **SOGI 123** is found [here](https://www.sogieducation.org/resources/) with BC specific materials [here](https://www.sogieducation.org/our-work/where-we-support/british-columbia/).
 - The BC Ministry of Education curriculum is [here](https://curriculum.gov.bc.ca/). There's no SOGI class.
-- No one in education is forcing gender reassignment of children. It sounds unbelieveable because it is.
+- No one in education is asked to force (or even encourage) gender reassignment in children. It sounds unbelieveable because it is.
 
 **How it came to be:**
 1. BC passed Bill 27 amending the **Human Rights Code** to include "*gender identity or expression*".
