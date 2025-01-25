@@ -185,4 +185,4 @@ You will find these practices or similar ones listed in almost all implementatio
 Again, a few important points:
 1. **SOGI 123** is NOT legislation. The relevant legislation doesn't even mention it.
 2. **SOGI 123** is a collection of general guidelines and resources.
-3. Individual school districts *may* reference **SOGI 123** to develop their own implementations of sexual orientation & gender identity policies. They're responsible for their own implementations under the **BC Human Rights Code** and the **Canadian Human Rights Act**.
+3. Individual school districts *may* reference **SOGI 123** for their own implementations of sexual orientation & gender identity policies under the **[BC Human Rights Code](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96210_01)** and the **[Canadian Human Rights Act](https://laws-lois.justice.gc.ca/eng/acts/h-6/)**.
