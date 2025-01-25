@@ -29,8 +29,7 @@ The BC government version of what I wrote above is [here](https://news.gov.bc.ca
 A completely different initiative is [erase](https://www2.gov.bc.ca/gov/content/erase) (expect respect & a safe education). There's a bit of overlap between it and **SOGI 123**, so it's also worth a look.
 
 **Why it matters:**
-- Politicians and commentators have discovered the rewards of exploiting passion and misinformation, especially after the 2004 and 2016 US elections.
-- In exchange for donations and an audience, they exploit conspiracies for personal gain.
+- In exchange for donations and an audience, politicians and commentators exploit conspiracies for personal gain.
 - Real people get hurt - on both sides! People suffer serious consequences for buying into the BS, and innocent people are falsely targeted.
 - Manipulating people with exagerated wedge issues and lies is wrong.
 
@@ -39,16 +38,16 @@ A completely different initiative is [erase](https://www2.gov.bc.ca/gov/content/
 # SOGI at your school
 For those researching the implementation of SOGI policies at your school (**SOGI 123** based or otherwise), you need to find the information on your **local school district**'s website.
 
-If you're looking for a curriculum or coursework, it doesn't exist. You can find the actual curriculum [here](https://curriculum.gov.bc.ca/).
+If you're looking for a SOGI syllabus or coursework, it doesn't exist. You can find the actual BC school curriculum [here](https://curriculum.gov.bc.ca/).
 
-Here's an example school district:
+Here's an example of a school district's SOGI policies:
 1. [K̓wsaltktnéws ne Secwepemcúl’ecw School District No. 83](https://sd83.bc.ca/) has their policies listed on their website.
 2. You can find "*Sexual Orientation Gender Identity (SOGI)*" under "*Safe and Healthy Schools*" in the top navigation menu.
 3. There are several pages, one of which is a convenient [FAQ](https://sd83.bc.ca/sexual-orientation-and-gender-identity-sogi-inclusive-education-questions-answers/).
 
 Your school district probably has something similar.
 
-Some more examples from [here](https://bccpac.bc.ca/upload/2017/11/moe-sogi-policy-guide.pdf):
+Some more examples from [here](https://bccpac.bc.ca/upload/2017/11/moe-sogi-policy-guide.pdf) (please excuse the dead links):
 > **LANGLEY - Inclusive Anti-Harassment Policy** - *Langley School District* introduced an Anti-Harassment and AntiDiscrimination Policy in 2014 to define inappropriate behaviours and actions in order to prevent discrimination and harassment. The policy explicitly recognizes that students of sexual or gender minorities face a unique set of challenges within schools, which may have profound social consequences.
 > - https://www.sd35.bc.ca/students-parents/langley-school-district-code-of-conduct/
 > - https://district.public.sd35.bc.ca/wp-content/uploads/sites/2/2015/07/Policy-7200.pdf 
@@ -64,6 +63,7 @@ Some more examples from [here](https://bccpac.bc.ca/upload/2017/11/moe-sogi-poli
 > - http://www.sd68.bc.ca/wp-content/uploads//Administrative%20Procedures/300/AP-344-Code-of-Conduct.pdf
 > - http://www.sd68.bc.ca/wp-content/uploads//Policy/2.0/2.10-Inclusion-Policy-.pdf
 > - http://www.sd68.bc.ca/edocuments//Administrative_Procedures/300students_1/ap347sexualorie/content.htm
+
 ---
 
 As mentioned, the bills amended the **Canadian Human Rights Act** and BC's **Human Rights Code Amendment Act**. It's probably easier to just reference them directly rather than going through the relevant bills. I'll go through the bills to give context to how **SOGI 123** came to be.
@@ -180,7 +180,9 @@ The [early guidance from \~2017](https://bccpac.bc.ca/upload/2017/11/moe-sogi-po
 
 You will find these practices or similar ones listed in almost all implementations by BC schools, and it's very similar to what you can find today on [the official website](https://www.sogieducation.org/resource/10-key-components-for-policies-and-procedures/).
 
+---
+
 Again, a few important points:
 1. **SOGI 123** is NOT legislation. The relevant legislation doesn't even mention it.
 2. **SOGI 123** is a collection of general guidelines and resources.
-3. Individual school districts *may* reference **SOGI 123** to develop their own implementations.
+3. Individual school districts *may* reference **SOGI 123** to develop their own implementations of sexual orientation & gender identity policies. They're responsible for their own implementations under the **BC Human Rights Code** and the **Canadian Human Rights Act**.
